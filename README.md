@@ -42,7 +42,8 @@ docs/                   report PDF, charts, build guide, performance record
 ```
 
 ## Links (fill in)
-- Tableau Public dashboard: ADD LINK
+https://public.tableau.com/views/EVMarketAnalysis_17926786113420/MarketOverview
+https://public.tableau.com/views/EVMarketAnalysis_17926786113420/Story1
 - Demo video: ADD LINK
 
 ## Note on the data
