@@ -44,7 +44,7 @@ docs/                   report PDF, charts, build guide, performance record
 ## Links (fill in)
 https://public.tableau.com/views/EVMarketAnalysis_17926786113420/MarketOverview
 https://public.tableau.com/views/EVMarketAnalysis_17926786113420/Story1
-- Demo video: ADD LINK
+- Demo video: https://drive.google.com/file/d/1Oik0Z53AKzTwvmX7_oB2swu_yIT3qbFW/view?usp=drivesdk
 
 ## Note on the data
 The dataset is synthetic: models listed per year, regional totals and battery range are almost uniform.
